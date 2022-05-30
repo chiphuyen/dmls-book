@@ -9,6 +9,7 @@ Machine learning systems are both complex and unique. Complex because they consi
 
 ## Repo structure
 This book focuses on the key design decisions when developing and deploying machine learning systems. This is NOT a tutorial book, so it doesn't have a lot of code snippets. In this repo, you'll find:
+- [Table of contents](ToC.pdf)
 - A review of basic ML concepts
 - Advanced resources
 - Tool recommendation for certain problems mentioned in the book 
