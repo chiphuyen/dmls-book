@@ -18,7 +18,7 @@ and most places where technical books are sold.
 ## Repo structure
 This book focuses on the key design decisions when developing and deploying machine learning systems. This is NOT a tutorial book, so it doesn't have a lot of code snippets. In this repo, you won't find code examples, but you'll find:
 - [Tabel of contents](ToC.pdf)
-- [Author's summary of each chapter](summary.md)
+- [Chapter summaries](summary.md)
 - [MLOps tools](mlops-tools.md)
 - [Resources](resources.md)
 - [A very short review of basic ML concepts](basic-ml-review.md)
