@@ -112,4 +112,4 @@ Just me nerding out on those cool use cases -- don’t mind me.
 * CI/CD: [earthly](https://github.com/earthly/earthly)
 * Monitoring: [Sentry](https://github.com/getsentry/sentry), [Prometheus](https://github.com/prometheus/prometheus), [vector](https://github.com/vectordotdev/vector), [M3](https://github.com/m3db/m3)
 * Dashboards: [Grafana](https://github.com/grafana/grafana), [Metabase](https://github.com/metabase/metabase)
-* Resilience: General DevOps: [Chaos Monkey](https://github.com/Netflix/chaosmonkey), [k6](https://github.com/grafana/k6)
+* General DevOps: [Chaos Monkey](https://github.com/Netflix/chaosmonkey), [k6](https://github.com/grafana/k6)
