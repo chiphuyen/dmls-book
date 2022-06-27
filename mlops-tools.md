@@ -69,7 +69,7 @@ H2O did a fun [database-like ops benchmark](https://h2oai.github.io/db-benchmark
 
 ## Interpretability and fairness
 
-* Interpretability: [SHAP](https://github.com/slundberg/shap), [Lime](https://github.com/marcotcr/lime), [Interpret](https://github.com/interpretml/interpret), [lit](https://github.com/PAIR-code/lit) (for NLP), [captum](https://github.com/pytorch/captum) (PyTorch), [timeshap](https://github.com/feedzai/timeshap)
+* Interpretability: [SHAP](https://github.com/slundberg/shap), [Lime](https://github.com/marcotcr/lime), [Interpret](https://github.com/interpretml/interpret), [lit](https://github.com/PAIR-code/lit) (for NLP), [captum](https://github.com/pytorch/captum) (PyTorch), [timeshap](https://github.com/feedzai/timeshap), [AIX360](https://github.com/Trusted-AI/AIX360)
 * Fairness: [AIF360](https://github.com/Trusted-AI/AIF360)
 
 
