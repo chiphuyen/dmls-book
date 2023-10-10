@@ -8,6 +8,8 @@ Machine learning systems are both complex and unique. Complex because they consi
 
 [<img src="./assets/dmls-cover.png" width="250">](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
 
+The book has been translated into [Spanish](https://www.amazon.com/Dise%C3%B1o-sistemas-Machine-Learning-aplicaciones/dp/8426736955/), [Japanese](https://www.oreilly.co.jp/books/9784814400409/), [Korean](https://www.hanbit.co.kr/media/books/book_view.html?p_code=B1811121220), [Polish](https://helion.pl/ksiazki/jak-projektowac-systemy-uczenia-maszynowego-iteracyjne-tworzenie-aplikacji-gotowych-do-pracy-chip-huyen,jakpsu.htm#format/d), and [Thai](https://www.lazada.co.th/products/designing-machine-learning-systems-i4258019199-s16857887502.html).
+
 The book is available on:
 - [Amazon](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
 - [O'Reilly](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
@@ -53,6 +55,8 @@ You can also benefit from the book if you belong to one of the following groups:
 - _"There is so much information one needs to know to be an effective machine learning engineer. It's hard to cut through the chaff to get the most relevant information, but Chip has done that admirably with this book. If you are serious about ML in production, and care about how to design and implement ML systems end to end, this book is essential."_ - Laurence Moroney, AI and ML Lead, Google
 
 - _"One of the best resources that focuses on the first principles behind designing ML systems for production. A must-read to navigate the ephemeral landscape of tooling and platform options."_ - Goku Mohandas, Founder of [Made With ML](https://github.com/GokuMohandas/MadeWithML)
+
+See what people are talking about the book on Twitter [@designmlsys](https://twitter.com/designmlsys/likes)!
 
 ---
 
