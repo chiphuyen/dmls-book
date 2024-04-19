@@ -62,7 +62,7 @@ Instacart uses machine learning to solve the task of path optimization: how to m
 
 An application as simple as a document scanner has two distinct components: optical character recognition and word detector. Each requires its own production pipeline, and the end-to-end system requires additional steps for training and tuning. This article also goes into detail the team’s effort to collect data, which includes building their own data annotation platform.
 
-9. [Spotify’s Discover Weekly: How machine learning finds your new music](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe) (Umesh .A Bhat, 2017)
+9. [Spotify’s Discover Weekly: How machine learning finds your new music](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe) (Sophia Ciocca, 2017)
 
 To create Discover Weekly, there are three main types of recommendation models that Spotify employs:
 
