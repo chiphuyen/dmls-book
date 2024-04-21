@@ -81,6 +81,7 @@ To create Discover Weekly, there are three main types of recommendation models t
 
 * [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml) (Martin Zinkevich)
 * [Things I wish we had known before we started our first Machine Learning project](https://medium.com/infinity-aka-aseem/things-we-wish-we-had-known-before-we-started-our-first-machine-learning-project-336d1d6f2184) (Aseem Bansal, towards-infinity 2018)
+* [Data Science Project Quick-Start](https://eugeneyan.com/writing/project-quick-start/) (Eugene Yan, 2022)
 * [https://github.com/chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design): A much earlier, much less organized version of this book. 
 * [Deploying Machine Learning Models: A Checklist](https://twolodzko.github.io/ml-checklist) (a short checklist for ML systems design)
 
