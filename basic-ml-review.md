@@ -63,7 +63,7 @@ To make this concrete, let’s go back to the example above where we have only 2
 </table>
 
 
-Table A-1: Predicted outputs when w = 4 and b = 4
+Table A-1: Predicted outputs when w = 3 and b = 4
 
 There are many types of distance metrics you can use to derive your objective functions. When the outputs are scalars (numbers), two common metrics are Root Mean Squared Error and Mean Absolute Error as shown in Table A-2.
 
