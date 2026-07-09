@@ -69,7 +69,7 @@ Chip Huyen, *[Designing Machine Learning Systems](https://scholar.google.com/cit
     @book{dmlsbook2022,  
         address = {USA},  
         author = {Chip Huyen},  
-        isbn = {978-1801819312},   
+        isbn = {978-1-09-810796-3},   
         publisher = {O'Reilly Media},  
         title = {{Designing Machine Learning Systems}},  
         year = {2022}  
